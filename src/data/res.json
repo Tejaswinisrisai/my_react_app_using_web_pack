@@ -1,0 +1,1251 @@
+{"restauList":[
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "367769",
+    "name": "Lucky Restaurant",
+    "uuid": "0d2cb79c-7f66-4009-b393-3f9015ba849d",
+    "city": "3",
+    "area": "MasabTank",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "qems028i3da5rxf81rbp",
+    "cuisines": [
+    "Biryani",
+    "North Indian",
+    "Tandoor"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 44,
+    "minDeliveryTime": 44,
+    "maxDeliveryTime": 44,
+    "slaString": "44 MINS",
+    "lastMileTravel": 4.699999809265137,
+    "slugs": {
+    "restaurant": "lucky-restaurant-banjara-hills-banjara-hills",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "Dana Chambers, Saifabad Rd, Sham Nagar Colony, Chintal, Hyderabad, Telangana 500004",
+    "locality": "Banjara Hills",
+    "parentId": 293683,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 3700,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 3700,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "3700",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.6 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "₹100 OFF",
+    "subHeader": "ABOVE ₹599",
+    "discountTag": "FLAT DEAL",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "367769",
+    "deliveryTime": 44,
+    "minDeliveryTime": 44,
+    "maxDeliveryTime": 44,
+    "lastMileTravel": 4.699999809265137,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "3.9",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "715338",
+    "name": "BODYPOWER CAFE",
+    "uuid": "db8ba48c-9556-4d94-853a-018bc0c9528a",
+    "city": "3",
+    "area": "Banjara Hills",
+    "totalRatingsString": "20+ ratings",
+    "cloudinaryImageId": "259140b514b5dd3e75f012acc24e196f",
+    "cuisines": [
+    "Indian",
+    "South Indian",
+    "Healthy Food",
+    "Beverages"
+    ],
+    "tags": [],
+    "costForTwo": 45000,
+    "costForTwoString": "₹450 FOR TWO",
+    "deliveryTime": 54,
+    "minDeliveryTime": 54,
+    "maxDeliveryTime": 54,
+    "slaString": "54 MINS",
+    "lastMileTravel": 4.900000095367432,
+    "slugs": {
+    "restaurant": "bodypower-cafe-banjara-hills-banjara-hills",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "H NO 10-5-2/1/A, MASAB TANK, BANJRA HILLS, ROAD NO 1, HYDERABAD, Mehdipatnam Circle No 12, Hyderabad, Telangana-500034",
+    "locality": "Ambedkar Nagar",
+    "parentId": 280671,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 3700,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 3700,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "3700",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6893485~p=7~eid=00000188-a9a8-0635-1212-8d3800a60736",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.9 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "₹125 OFF",
+    "subHeader": "ABOVE ₹249",
+    "discountTag": "FLAT DEAL",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "715338",
+    "deliveryTime": 54,
+    "minDeliveryTime": 54,
+    "maxDeliveryTime": 54,
+    "lastMileTravel": 4.900000095367432,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.7",
+    "totalRatings": 20,
+    "new": true
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "25251",
+    "name": "Meridian Restaurant",
+    "uuid": "41eab84b-b00a-457d-80c8-5a62fadc4790",
+    "city": "3",
+    "area": "Punjagutta",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "cxvuxxwpkicbqo3nkqiy",
+    "cuisines": [
+    "Biryani",
+    "Chinese",
+    "North Indian",
+    "Kebabs"
+    ],
+    "tags": [],
+    "costForTwo": 40000,
+    "costForTwoString": "₹400 FOR TWO",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "slaString": "45 MINS",
+    "lastMileTravel": 6.599999904632568,
+    "slugs": {
+    "restaurant": "meridian-cafe-restaurant-panjagutta-banjara-hills",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "6-3-694/1 &697, Panjagutta main road",
+    "locality": "Panjagutta main road",
+    "parentId": 19276,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 6000,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 6000,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "6000",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 1,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "6.5 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "25251",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "lastMileTravel": 6.599999904632568,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "IT_IS_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "100942",
+    "name": "Lucky Multicuisine Restaurant",
+    "uuid": "8e677eb2-065e-4021-ab21-b94d70357977",
+    "city": "3",
+    "area": "Somajiguda",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "yeyiqeakfhjj6cmeocsc",
+    "cuisines": [
+    "Biryani",
+    "North Indian",
+    "Tandoor",
+    "South Indian"
+    ],
+    "tags": [],
+    "costForTwo": 35000,
+    "costForTwoString": "₹350 FOR TWO",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "slaString": "45 MINS",
+    "lastMileTravel": 6.099999904632568,
+    "slugs": {
+    "restaurant": "lucky-multicuisine-restaurant-somajiguda-somajiguda-khairtabad",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "Door no;6-3-1089/f/33,somajiguda,hyd,circle no.10(old mch circle-v)khairtabad,hyd-central zone, telengana 500082.",
+    "locality": "\nRaj Bhavan Quarters Colony",
+    "parentId": 18963,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 6000,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 6000,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "6000",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 1,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "6 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "100942",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "lastMileTravel": 6.099999904632568,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "IT_IS_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "3.7",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "40376",
+    "name": "Santosh Dhaba Jashan",
+    "uuid": "e160f395-466a-4cf0-b473-c08841259f70",
+    "city": "3",
+    "area": "Koti",
+    "totalRatingsString": "5000+ ratings",
+    "cloudinaryImageId": "ioxt85wcbgg3qtadlxik",
+    "cuisines": [
+    "North Indian",
+    "Chinese",
+    "Italian"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 38,
+    "minDeliveryTime": 38,
+    "maxDeliveryTime": 38,
+    "slaString": "38 MINS",
+    "lastMileTravel": 1.2999999523162842,
+    "slugs": {
+    "restaurant": "santosh-dhaba-jashan-abids-abids-koti",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "4-1-969/970, Ahuja Estate Lane, opp Santosh Sapna Theatre, Abids, Hyderabad",
+    "locality": "Secunderabad",
+    "parentId": 19162,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 2600,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 2600,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "2600",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6939635~p=10~eid=00000188-a9a8-0635-1212-8d3900a60a31",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.2 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "20% OFF",
+    "subHeader": "UPTO ₹50",
+    "discountTag": "",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "40376",
+    "deliveryTime": 38,
+    "minDeliveryTime": 38,
+    "maxDeliveryTime": 38,
+    "lastMileTravel": 1.2999999523162842,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.1",
+    "totalRatings": 5000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "237054",
+    "name": "Cafe Bahar since 1973",
+    "uuid": "1f855219-ddd4-49cc-b1fa-de1354158426",
+    "city": "3",
+    "area": "Basheer Bagh",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "yrycuz88yy7lm2qbsdv6",
+    "cuisines": [
+    "Biryani",
+    "Chinese",
+    "Indian",
+    "Kebabs",
+    "Tandoor"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 31,
+    "minDeliveryTime": 31,
+    "maxDeliveryTime": 31,
+    "slaString": "31 MINS",
+    "lastMileTravel": 2.299999952316284,
+    "slugs": {
+    "restaurant": "cafe-bahar-himayath-nagar-himayath-nagar",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "Old MLA Quarters, Hyderguda, Basheer Bagh",
+    "locality": "",
+    "parentId": 316607,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 2600,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 2600,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "2600",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "237054",
+    "deliveryTime": 31,
+    "minDeliveryTime": 31,
+    "maxDeliveryTime": 31,
+    "lastMileTravel": 2.299999952316284,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "142670",
+    "name": "Shah Ghouse Cafe & Restaurant",
+    "uuid": "88b357e6-6560-449b-9400-5e9a9915db66",
+    "city": "3",
+    "area": "Lakdikapul",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "bk26jkkqpg55veii0aj9",
+    "cuisines": [
+    "Biryani",
+    "Chinese",
+    "Tandoor",
+    "Mughlai",
+    "North Indian"
+    ],
+    "tags": [],
+    "costForTwo": 35000,
+    "costForTwoString": "₹350 FOR TWO",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "slaString": "43 MINS",
+    "lastMileTravel": 4.5,
+    "slugs": {
+    "restaurant": "shah-ghouse-cafe-restaurant-lakdikapool-nampally",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "6-2-971,Lakdikapool,Hyd",
+    "locality": "Santh Nirankari Satsang Bhavan",
+    "parentId": 18992,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 3700,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 3700,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "3700",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.5 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "142670",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "lastMileTravel": 4.5,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "369152",
+    "name": "Pista House Restaurant & Bakery\t",
+    "uuid": "1f6bcc73-c207-484e-8be8-2f3b1c0a6de8",
+    "city": "3",
+    "area": "Malakpet",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "gztlag7iu5911juzggqz",
+    "cuisines": [
+    "North Indian",
+    "Biryani",
+    "Tandoor",
+    "Chinese"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "slaString": "43 MINS",
+    "lastMileTravel": 5,
+    "slugs": {
+    "restaurant": "pista-house-bakery-&-restaurant-kothapet-&-dilsukhnagar-kothapet-&-dilsukhnagar",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "AARTHIS SEVEN HILLS COMPLEX PLOT NO 17 TO 24 AND 41 EAST PRASANTH NAGAR ARVIND NAGAR TEEGALAGUDA MUSARAMBAHG  500036",
+    "locality": "Kothapet ",
+    "parentId": 319765,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 5200,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 5200,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "5200",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=7009842~p=13~eid=00000188-a9a8-0635-1212-8d3a00a60d32",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "5 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "10% OFF",
+    "subHeader": "UPTO ₹40",
+    "discountTag": "",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "369152",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "lastMileTravel": 5,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.1",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "312800",
+    "name": "Hilton Restaurant",
+    "uuid": "3d80000d-209b-4f40-b4f1-542945fff926",
+    "city": "3",
+    "area": "Khairtabad",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "ne98mz09ikwfpz3ndws6",
+    "cuisines": [
+    "North Indian",
+    "Chinese",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "slaString": "45 MINS",
+    "lastMileTravel": 4.400000095367432,
+    "slugs": {
+    "restaurant": "hilton-restaurant-somajiguda-&-khairtabad-somajiguda-&-khairtabad",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "Ground floor, padjmaja chambers, KHAIRTABAD",
+    "locality": "Somajiguda & Khairtabad",
+    "parentId": 19233,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 3700,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 3700,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "3700",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.4 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "312800",
+    "deliveryTime": 45,
+    "minDeliveryTime": 45,
+    "maxDeliveryTime": 45,
+    "lastMileTravel": 4.400000095367432,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "92839",
+    "name": "Kamat Hotel",
+    "uuid": "d0eaca40-02ad-4b42-8ae4-7dc66f9dca4a",
+    "city": "3",
+    "area": "Khairtabad",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "mx3fjbwwj1vqklajna5d",
+    "cuisines": [
+    "North Indian",
+    "South Indian"
+    ],
+    "tags": [],
+    "costForTwo": 50000,
+    "costForTwoString": "₹500 FOR TWO",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "slaString": "43 MINS",
+    "lastMileTravel": 3,
+    "slugs": {
+    "restaurant": "kamat-hotel-lakdikapul-somajiguda-khairtabad",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "6-1-60/1, Secretariat Road, Near RBI, Saifabad, Lakdikapul, Hyderabad",
+    "locality": "Secretariat Road",
+    "parentId": 114320,
+    "unserviceable": false,
+    "veg": true,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 3700,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 3700,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "3700",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6941055~p=16~eid=00000188-a9a8-0635-1212-8d3b00a61058",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "3 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "20% OFF",
+    "subHeader": "UPTO ₹50",
+    "discountTag": "",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "92839",
+    "deliveryTime": 43,
+    "minDeliveryTime": 43,
+    "maxDeliveryTime": 43,
+    "lastMileTravel": 3,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.3",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "523794",
+    "name": "CAPITAL MULTICUISINE RESTAURANT",
+    "uuid": "69beb71d-97b8-410b-bcf6-25193b8b0b92",
+    "city": "3",
+    "area": "Himayath Nagar",
+    "totalRatingsString": "1000+ ratings",
+    "cloudinaryImageId": "rkbt9oto4ub6d4uhmu35",
+    "cuisines": [
+    "Biryani",
+    "Arabian",
+    "Lebanese"
+    ],
+    "tags": [],
+    "costForTwo": 35000,
+    "costForTwoString": "₹350 FOR TWO",
+    "deliveryTime": 35,
+    "minDeliveryTime": 35,
+    "maxDeliveryTime": 35,
+    "slaString": "35 MINS",
+    "lastMileTravel": 2.0999999046325684,
+    "slugs": {
+    "restaurant": "capital-multicuisine-restaurant-himayath-nagar-himayath-nagar",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "CAPITAL MULTI CUISINE RESTAURANT 3-6-285/A , Hyderguda Street No.4 , Opposite OLD MLA Quarters, Hyderguda - Basheerbagh Road, Hyderabad, Telangana-500029",
+    "locality": "Malkajgiri Circle",
+    "parentId": 19262,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 2600,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 2600,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "2600",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2 kms",
+    "hasSurge": false,
+    "aggregatedDiscountInfoV3": {
+    "header": "50% OFF",
+    "subHeader": "UPTO ₹100",
+    "discountTag": "",
+    "headerTypeV2": 0
+    },
+    "sla": {
+    "restaurantId": "523794",
+    "deliveryTime": 35,
+    "minDeliveryTime": 35,
+    "maxDeliveryTime": 35,
+    "lastMileTravel": 2.0999999046325684,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "3.7",
+    "totalRatings": 1000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "28108",
+    "name": "Al Rabea Al Arabi Cafeteria",
+    "uuid": "10573e6b-6833-4990-9412-d6397ae3f3ec",
+    "city": "3",
+    "area": "Mehdipatnam",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "jnzmscxd37rbjmgciwt5",
+    "cuisines": [
+    "Arabian",
+    "Lebanese"
+    ],
+    "tags": [],
+    "costForTwo": 25000,
+    "costForTwoString": "₹250 FOR TWO",
+    "deliveryTime": 47,
+    "minDeliveryTime": 47,
+    "maxDeliveryTime": 47,
+    "slaString": "47 MINS",
+    "lastMileTravel": 6.599999904632568,
+    "slugs": {
+    "restaurant": "alrabea-al-arabi-cafeteria-mehdipatnam-mehdipatnam",
+    "city": "hyderabad"
+    },
+    "cityState": "3",
+    "address": "Shop Number 12-2-772,Pillar Number 37, Dilshad Nagar Colony Rd, Rethi Bowli, P & T Colony, Mehdipatnam, Hyderabad",
+    "locality": "Pillar no 37",
+    "parentId": 7582,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 6000,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 6000,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "6000",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 1,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "6.5 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "28108",
+    "deliveryTime": 47,
+    "minDeliveryTime": 47,
+    "maxDeliveryTime": 47,
+    "lastMileTravel": 6.599999904632568,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "IT_IS_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.3",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    }]}

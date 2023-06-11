@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+#root {
+  box-sizing: border-box;
+}
+
+#header {
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+}
+
+#menuList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+#menuList li {
+  margin: 1rem;
+}
