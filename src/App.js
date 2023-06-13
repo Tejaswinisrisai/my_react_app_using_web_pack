@@ -4,12 +4,13 @@ import Header from './Header';
 import RestaurantCards from './Cards';
 // import dat from './data/res.json';
 import './App.css';
+import BodyComponent from './BodyComponent';
 
 function App() {
     return (
         <>
             <Header />
-            <RestaurantCards/>    
+            <BodyComponent/>    
         </>
     );
 }

@@ -1,20 +1,18 @@
 import './Cards.css';
-import dat from './data/res.json';
-import BodyComponent from './BodyComponent';
+// import BodyComponent from './BodyComponent';
+// import restaurantsList from './data/res.json';
+// import { useState } from 'react';
 
-const RestaurantCards = () => {
+
+const RestaurantCards = ({ cloudinaryImageId, name, area }) => { 
     return (
-        <div id='RestaurantCards'>
-            {
-                dat.restauList.map((resta) => {
-                    return <BodyComponent {...resta.data} />
-                })
-            }
-            {/* Other ways for reference
-            <BodyComponent {...dat.restauList[0].data}
-            <BodyComponent restaurant={dat.restauList[0].data} /> 
-            */}
-        </div>
+        <>
+            <div className='card'>
+                <img src={"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" + cloudinaryImageId} alt='food_image' />
+                <h3>{name}</h3>
+                <p>{area}</p>
+            </div>
+        </>
     );
 };
 

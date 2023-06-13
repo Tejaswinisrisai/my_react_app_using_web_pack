@@ -7,9 +7,10 @@ body {
 }
 
 #header {
-  background-color: azure;
+  background-color: rgb(0, 0, 0);
   display: flex;
   justify-content: space-between;
+  color: rgb(184, 150, 27);
 }
 
 #menuList {

@@ -1,40 +1,70 @@
-// import React from "React";
-// import dat from './data/res.json';
+import RestaurantCards from './Cards';
+import restaurantsList from './data/res.json';
+import { useState } from 'react';
 import './BodyComponent.css';
 
-//fetching name area and city and image
+const restaurantListArr = restaurantsList.restauListArray;
+
+function filterData(inputSearch, restaurantList) {
+    // const restauarray = restaurantList.restauListArray;
 
 
-// const tempdata = {
-//     image: "qems028i3da5rxf81rbp",
-//     name: 'Mefil',
-//     city: 'Hyderabad',
-//     area: 'kacheguda'
-// };
-// const BodyComponent = (props) => {
-// const BodyComponent = ({restaurant}) => {
-const BodyComponent = ({cloudinaryImageId, name, area}) => {
-    // const {cloudinaryImageId, name, area} = restaurant;
+    const filteredArray=restaurantList.filter(item=>
+        {
+            const str=JSON.stringify(item);
+            console.log("item",item);
+            console.log("str",str);
+            const item_lower=str.toLowerCase();
+            const input_lowerr=inputSearch.toLowerCase();
+            return item_lower.includes(input_lowerr);
+        }       
+        );
+
+        // console.log(filteredArray)
+        return filteredArray;
+    
+}
+const BodyComponent = () => {
+    const [inputSearch, setInputSearch] = useState("");
+    const [restaurantList, setRestaurantList] = useState(restaurantListArr);
+
     return (
-        
-        <div className='card'>
-            
-            <img src={"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" + cloudinaryImageId} alt='food_image' />
-            <h3>
-                {name}
-                {/* {restaurant.name} - left for reference*/}
-                {/* {props.restaurant.name} - left for reference*/}
-            </h3>
-            <p>
-                {area}
-            </p>
-        </div>
-    );
-};
+        <>
+            <div id='SearchCmpnt'>
+                <input
+                    type='text'
+                    className='searchBar'
+                    placeholder='Search'
+                    value={inputSearch}
+                    onChange={(event) => {
+                        setInputSearch(event.target.value);
+                        const data = filterData(event.target.value,restaurantListArr);
+                        setRestaurantList(data);
+                    }}
+                />
+                <button
+                    className='searchButton'
+                    onClick={() => {
+                        const data = filterData(inputSearch, restaurantListArr);
+                        // console.log(data);
+                        setRestaurantList(data);
+                    }}
+                >
+                    Search
+                </button>
+            </div>
+            <div id='RestaurantCards'>
+                {
+                    restaurantList.map((resta) => {
+                        return <RestaurantCards {...resta.data} />
+                    })
+                }
+            </div>
+        </>
+    )
+}
 
 export default BodyComponent;
-
-
 
 
 
